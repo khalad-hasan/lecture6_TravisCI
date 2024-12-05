@@ -5,3 +5,4 @@ python:
 # command to run tests
 script:
   - python TestModule1.py
+  - python TestModule2.py
